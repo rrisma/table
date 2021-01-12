@@ -1,0 +1,28 @@
+.card-movies {
+    border-radius: 20px;
+    border: 1px solid grey;
+    padding: 14px;
+}
+.card-movies h3 {
+    text-align: center;
+    text-transform: uppercase;
+}
+.movies {
+    margin: 0 auto;
+    border-collapse: collapse;
+    border: 1px solid grey;
+}
+.movies th {
+    padding: 1rem;
+    border: 1px solid grey;
+    vertical-align: middle;
+    text-align: center;
+}
+.movies td {
+    padding: 0.5rem 2rem;
+    vertical-align: top;
+    border: 1px solid grey;
+    white-space: nowrap;
+    border-style: none solid;
+    text-align: center;
+}
